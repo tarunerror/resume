@@ -29,12 +29,12 @@ A modern, animated portfolio website built with React, Three.js, and Framer Moti
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/3d-portfolio.git
+git clone https://github.com/tarunerror/resume.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd 3d-portfolio
+cd resume
 ```
 
 3. Install dependencies:
@@ -138,8 +138,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
-Project Link: [https://github.com/yourusername/3d-portfolio](https://github.com/yourusername/3d-portfolio)
+Project Link: [https://github.com/tarunerror/resume](https://github.com/tarunerror/resume)
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Tarun Gautam
+
+<a href="https://instagram.com/tan.error">
+    <img src="https://img.shields.io/badge/Follow-%40tan.error-ff69b4?style=social&logo=instagram" alt="Instagram Follow">
+</a>
