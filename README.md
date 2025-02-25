@@ -136,7 +136,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Project Link: [https://github.com/tarunerror/resume](https://github.com/tarunerror/resume)
+Project Link: [https://github.com/tarunerror/resume](https://github.com/tarunerror/resume) <br>
 Demo Link : [View Demo](https://tarungautam.tech)
 
 ---
