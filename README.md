@@ -134,7 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📧 Contact
+## 📧 Links
 
 Project Link: [https://github.com/tarunerror/resume](https://github.com/tarunerror/resume) <br>
 Demo Link : [View Demo](https://tarungautam.tech)
