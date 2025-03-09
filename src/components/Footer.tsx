@@ -67,7 +67,7 @@ export const Footer = () => {
             <h3 className="text-xl font-bold text-white mb-4">Contact</h3>
             <p className="text-gray-400 mb-2">Email: its.tarun01@gmail.com</p>
             <p className="text-gray-400 mb-2">Location: Phagwara, Punjab, India</p>
-            <a href="https://drive.google.com/file/d/13HEbORWGi4ggAYJei7hTDKs3ktTa5ZFh/view?usp=sharing" download>
+            <a href="https://drive.google.com/file/d/1vNN-_Hi1i_hNT1JBXU2l5TdmL3r0R1DJ/view?usp=sharing" download>
               <button className="px-4 py-2 bg-indigo-500 text-white rounded-lg hover:bg-indigo-600 transition-colors">
                 Download CV
               </button>
